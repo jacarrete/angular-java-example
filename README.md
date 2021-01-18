@@ -32,3 +32,5 @@ npm install
 npm start
 
 http://localhost:4200
+
+![alt text](https://github.com/jacarrete/angular-java-example/blob/master/screenshot.png?raw=true)
